@@ -1,0 +1,3 @@
+rootProject.name='YuluDimensions'
+include ':app'
+include ':yuludimensionlabs'
